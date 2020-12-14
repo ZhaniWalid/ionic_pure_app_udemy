@@ -1,0 +1,7 @@
+{
+  "name": "ionic_pure_app_udemy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
